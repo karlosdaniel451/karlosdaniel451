@@ -21,7 +21,7 @@
 - 📫 How to reach me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karlos-daniel-9188b01a2//">
+  <a href="https://www.linkedin.com/in/karlos-daniel-9188b01a2/">
     <img alt="LinkedinIcon" src="https://img.shields.io/badge/Linkedin-0A66C2?logo=Linkedin&logoColor=white&style=for-the-badge"/>
   </a>
   <a href="https://github.com/karlosdaniel451">
