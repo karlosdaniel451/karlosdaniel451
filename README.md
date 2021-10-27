@@ -13,6 +13,8 @@
   <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=GNU+Bash&logoColor=white&style=for-the-badge" />
   <img alt="Intellij IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=Intellij+IDEA&logoColor=white&style=for-the-badge" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual+Studio+Code&logoColor=white&style=for-the-badge" />
+  <img alt="Gradle Build Tool" src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge" />
+  <img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=white&style=for-the-badge" />
 </p>
 
 
