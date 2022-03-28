@@ -5,16 +5,14 @@
 - 🌱 I'm currently learning and practicing the following technologies: 
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" />
-  <img alt="C" src="https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white&style=for-the-badge" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img alt="GNU Bash" src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=GNU+Bash&logoColor=white&style=for-the-badge" />
-  <img alt="Intellij IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-000000?logo=Intellij+IDEA&logoColor=white&style=for-the-badge" />
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-57A143?logo=Neovim&logoColor=white&style=for-the-badge" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual+Studio+Code&logoColor=white&style=for-the-badge" />
-  <img alt="Gradle Build Tool" src="https://img.shields.io/badge/Gradle-02303A?logo=Gradle&logoColor=white&style=for-the-badge" />
-  <img alt="JUnit5" src="https://img.shields.io/badge/JUnit5-25A162?logo=JUnit5&logoColor=white&style=for-the-badge" />
 </p>
 
 
