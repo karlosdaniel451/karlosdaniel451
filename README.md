@@ -33,6 +33,15 @@
 </p>
 
 
+<!-- Section of the (natural) languages I speak -->
+
+- (Natural) languages I speak: 
+<p align="center">
+🇧🇷 Portuguese: native |
+🇬🇧 English: advanced |
+🇫🇷 French: basic
+</p>
+
 <!-- Section of my GitHub stats -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=karlosdaniel451&count_private=true&theme=radical&show_icons=true" />
