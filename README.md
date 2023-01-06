@@ -8,6 +8,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
   <img alt="Apache Spark" src="https://img.shields.io/badge/Spark-E25A1C?logo=Apache Spark&logoColor=white&style=for-the-badge" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=PostgreSQL&logoColor=white&style=for-the-badge" />
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?style=for-the-badge&logo=RabbitMQ&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=FastAPI&logoColor=white&style=for-the-badge" />
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=Linux&logoColor=black&style=for-the-badge" />
