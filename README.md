@@ -62,7 +62,7 @@
 
 <!-- Section of the most used languages by me. -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlosdaniel451&count_private=true&theme=dark&exclude_repo=karlosdaniel451.github.io,learning-git-and-github,data-analysis)](https://github.com/karlosdaniel451/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlosdaniel451&count_private=true&theme=dark&langs_count=6&exclude_repo=karlosdaniel451.github.io,learning-git-and-github,data-analysis)](https://github.com/karlosdaniel451/github-readme-stats)
 
 
 <!-- Section of the most used languages by me. -->
