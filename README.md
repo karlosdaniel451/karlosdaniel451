@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- Here is [my résumé](https://drive.google.com/file/d/1LnbQWcsJkFu2W60BS_x0ZyWDXXp0Wfad/view?usp=sharing)
-
+<!-- Here is [my résumé](https://drive.google.com/file/d/1LnbQWcsJkFu2W60BS_x0ZyWDXXp0Wfad/view?usp=sharing) -->
+Here is [my résumé](https://registry.jsonresume.org/karlosdaniel451?theme=even)
 <!-- Section of the technologies I'm currently learning and practicing -->
 
 - 🌱 I'm currently learning backend development, distributed systems and databases with the following technologies: 
